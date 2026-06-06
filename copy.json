@@ -1,0 +1,70 @@
+{
+  "brand": "CompliWheel",
+  "tagline": "E-bike compliance verified in seconds — check before you sell",
+  "hero_headline": "Verify e-bike certification and local regulations before you sell",
+  "hero_sub": "Aggregate UL certification + city regulations. Enter model, get instant compliance status — save time, reduce risk",
+  "pains": [
+    "Adding each new model requires manual research across UL certifications and multiple city regulations — time-consuming and error-prone",
+    "Accidentally sell a banned model and face fines, confiscated inventory, losing thousands per order",
+    "Same model banned in NYC but legal in LA — city regulations vary widely, easy to make costly mistakes"
+  ],
+  "features": [
+    {
+      "title": "UL Certification Lookup",
+      "desc": "Connect to UL database, verify certification status and expiration dates for every model"
+    },
+    {
+      "title": "City Regulation Database",
+      "desc": "Track city-by-city ban and charging restrictions, automatic alerts for new regulations"
+    },
+    {
+      "title": "Compliance Risk Alerts",
+      "desc": "Flag uncertified or banned models, send warnings to prevent costly sales errors"
+    },
+    {
+      "title": "Compliant Supply Chain",
+      "desc": "Vetted certified batteries and charging equipment suppliers, one-stop shop for compliant components"
+    }
+  ],
+  "how": [
+    {
+      "step": "Search Model",
+      "desc": "Enter brand and model, system queries certification database"
+    },
+    {
+      "step": "Select City & Check Regs",
+      "desc": "Choose your target sales city, view applicable regulations"
+    },
+    {
+      "step": "Review Results & Decide",
+      "desc": "Red/green traffic light indicators show compliance status at a glance"
+    }
+  ],
+  "proof": "Core data sources integrated. Recruiting first wave of sellers to validate accuracy and build the most comprehensive compliance database",
+  "cta": "Apply for Beta",
+  "cta_sub": "Apply now to get early access",
+  "faq": [
+    {
+      "q": "Where does your data come from? Is it accurate?",
+      "a": "Official UL database + state and city government websites. Regulations change in real time — always confirm current rules after checking."
+    },
+    {
+      "q": "Which cities and models do you support?",
+      "a": "Beta focuses on New York, California, and Texas. Additional cities and models rolling out quickly."
+    },
+    {
+      "q": "How is pricing structured?",
+      "a": "Beta is free. Full version planned as monthly subscription or per-query fees — coming soon."
+    }
+  ],
+  "seo_pages": [
+    "UL2849 Certified Model Database",
+    "Electric Scooter Legal Cities and Ban Regions",
+    "E-bike NY Regulations and Certification Requirements",
+    "E-bike Charging Rules: Home, Shop, Retail Locations",
+    "E-bike Seller Compliance Checklist",
+    "E-bike Brand Certification Comparison"
+  ],
+  "disclaimer": "This platform is an informational reference tool and does not constitute legal advice. Regulations change in real time. Always verify official requirements and certification status with government agencies and licensed providers before selling.",
+  "lang": "en"
+}
